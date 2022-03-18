@@ -11,7 +11,7 @@ const TodoList = () => {
 }
 
 const AppHeader = () => {
-    return <h1>My ToDo List</h1>;
+    return <h1>My ToDo List!</h1>;
 } 
 
 const SearchPanel = () => {
